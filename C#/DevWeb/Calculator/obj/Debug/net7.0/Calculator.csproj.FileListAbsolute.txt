@@ -1,0 +1,14 @@
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\min\Documents\Github\studying\C#\DevWeb\Calculator\obj\Debug\net7.0\ref\Calculator.dll
